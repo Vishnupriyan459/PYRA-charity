@@ -8,16 +8,21 @@ body{
 }
 .nav{
     background-color: rgba(0, 0, 0, 0.5);
+    
 }
 .nav-right{
     float: right;
 }
-.donate-btn{
-    background-color: #F4004F; 
-    color: #000000;
-}
+
+/* .donate-btn{
+   
+    color: #F4004F;
+    border-color:#F4004F ;
+} */
+
 .donate-btn:hover{
     color: #F9F9FF;
+    background-color: #F4004F;
 }
 
 main{
@@ -29,6 +34,7 @@ main{
     height: 800px;
     left: 0px;
     top: 0px;
+   
 }
 .main-content{
    margin-left: 9%;
@@ -53,6 +59,26 @@ main{
     font-size: 90px;
     line-height: 80px;
 }
+/*Who we are*/
+.whoweare-topic
+{
+    position: absolute;
+    width: 440px;
+    height: 425px;
+    left: 944px;
+    top: 1298px;
 
+}
+.whoweare-img{
+    position: absolute;
+    width: 731px;
+    height: 510px;
+    left: 0px;
+    top: 1231px;
+    
 
+}
+.whoweare-head{
+    
+}
 
