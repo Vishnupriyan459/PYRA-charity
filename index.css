@@ -62,23 +62,55 @@ main{
 /*Who we are*/
 .whoweare-topic
 {
-    position: absolute;
+    /* position: absolute;
     width: 440px;
     height: 425px;
     left: 944px;
-    top: 1298px;
+    top: 1298px; */
 
 }
 .whoweare-img{
-    position: absolute;
+    /* position: absolute;
     width: 731px;
     height: 510px;
     left: 0px;
-    top: 1231px;
+    top: 1231px; */
     
 
+}
+.whoweare{
+    left: 944px;
+    top: 1298px; 
+   
 }
 .whoweare-head{
     
 }
 
+.custom-container {
+    position: absolute;
+    width: 671px;
+    height: 306.78px;
+    background-color: #181818;
+    font-family: 'Impact';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 122px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .footer{
+    position: absolute;
+    width: 269px;
+    height: 19px;
+    left: 578px;
+    top: 960px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+  }
